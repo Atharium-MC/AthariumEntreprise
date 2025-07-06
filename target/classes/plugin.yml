@@ -1,0 +1,9 @@
+name: AthariumEntreprise
+version: '0.1'
+main: fr.itmozlegends.AthariumEntreprise
+api-version: '1.20'
+depend: [Vault]
+commands:
+  entreprise:
+    description: Gère les entreprises
+    usage: /entreprise
